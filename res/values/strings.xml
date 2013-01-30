@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ideapro-api-android</string>
+    <string name="current_user">Welcome +94777123456</string>
+    <string name="enter_subscriber_id">Subscriber ID</string>
+    <string name="send_request">Send Request</string>
+    <string name="unlock">Unlock</string>
+</resources>
